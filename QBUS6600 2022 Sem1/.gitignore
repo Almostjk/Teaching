@@ -1,0 +1,5 @@
+*(ignore).ipynb
+*.npy
+*.csv
+*.npz
+*.ipynb_checkpoints
